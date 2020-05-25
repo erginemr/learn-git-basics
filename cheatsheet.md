@@ -23,3 +23,8 @@
 
 ##### Creates a branch, and moves you onto it AT THE SAME TIME
 		git checkout -b <new branch name>
+
+##### Adds new files int the working directory to git tracker
+        git add <filename>
+        git add .
+
